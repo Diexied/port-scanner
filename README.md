@@ -21,3 +21,19 @@ A lightweight TCP port scanner built in Python.
 - GUI
 - Export results
 - OS fingerprinting
+- 
+## Usage
+
+1. Enter the target IP address.
+2. Enter the starting port.
+3. Enter the ending port.
+4. The scanner checks each TCP port.
+5. Displays all open ports.
+
+## Project Status
+
+ Currently under development.
+
+## Author
+
+Developed by Diexied
